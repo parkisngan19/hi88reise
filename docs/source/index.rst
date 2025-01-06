@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Hi88 - Cổng game đổi thưởng uy tín và chuyên nghiệp
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hi88 <https://hi88.reise/>`_ là nền tảng giải trí hàng đầu, cung cấp trải nghiệm đỉnh cao với các sản phẩm đa dạng như thể thao, casino trực tuyến, nổ hũ, bắn cá đổi thưởng và trò chơi slot đẳng cấp. Sở hữu giao diện thân thiện, tốc độ truy cập nhanh và hỗ trợ đa nền tảng, Hi88 giúp người chơi dễ dàng đăng ký, đăng nhập và tham gia trò chơi chỉ với vài thao tác đơn giản. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nổi bật với các chương trình khuyến mãi hấp dẫn, từ quà tặng chào mừng đến hoàn trả hàng tuần, cùng các trò chơi độc đáo như Bắn Cá Long Vương, Bắn Cá Tôn Ngộ Không và đá gà, Hi88 không chỉ mang lại giải trí mà còn là nơi khám phá những trải nghiệm thú vị. Truy cập ngay trang chủ chính thức của Hi88 để tham gia thế giới giải trí không giới hạn trong năm 2025!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 68 Đường Trần Hưng Đạo, Quận 1, TP. Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0898169320. 
 
-.. toctree::
+Email: info@hi88.reise. 
 
-   usage
-   api
+Website: https://hi88.reise/ 
+
+#hi88 #trangchuhi88 #dangkyhi88 #dangnhaphi88 #linkhi88
